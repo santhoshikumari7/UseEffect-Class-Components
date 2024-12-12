@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.counter{
+  background-color: antiquewhite;
+  border: 2px solid black;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  margin: 30px;
+}
+
+body{
+  text-align: center;
+}
+
+button{
+  background-color: aqua;
+  margin: 5px;
+}
